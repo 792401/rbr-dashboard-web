@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
